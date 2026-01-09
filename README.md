@@ -15,6 +15,7 @@ This project analyzes sales data from a Zepto dataset to answer real business qu
 - Stock Details
 - Category-wise Estimated revenue
 - Top 10 best value prodcuts based on discount
+- Grouping Products Based On Weight
 
 ## Skills Demonstrated
 - SQL queries
