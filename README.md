@@ -1,4 +1,4 @@
-# zepto-sales-sql-analysis
+# Zepto-sales-sql-analysis
 SQL analysis project using Kaggle Zepto dataset
 
 ## Project Overview
