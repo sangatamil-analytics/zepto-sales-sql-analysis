@@ -111,7 +111,7 @@ from zepto
 where weight_inGms>=100
 order by price_per_gram
 
--- Groupping products based on weight
+-- Grouping products based on weight
 
 select distinct name,weight_inGms,
 
