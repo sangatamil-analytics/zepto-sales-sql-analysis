@@ -11,7 +11,7 @@ This project analyzes sales data from a Zepto dataset to answer real business qu
 
 ## Key Analysis Performed
 - Data Cleaning Of NULL MRP Products
-- Top-selling products
+- Top-Best Value products
 - Stock Details
 - Category-wise Estimated revenue
 - Top 10 best value prodcuts based on discount
